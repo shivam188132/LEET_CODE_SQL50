@@ -11,5 +11,5 @@ def fetch_director(text):
 raw_data = '[{"credit_id": "52fe48009251416c750acaaf", "department": "Directing", "gender": 2, "id": 2710, "job": "Director", "name": "James Cameron"}, {"credit_id": "52fe48009251416c750acaaf", "department": "Directing", "gender": 2, "id": 2711, "job": "Assistant Director", "name": "John Doe"}]'
 
 directors = fetch_director(raw_data)
-print(directors)
+
 
